@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RAT1</Text>
+    <Description>Some description for RAT1</Description>
+    <Assembly>RAT1.dll</Assembly>
+    <FullClassName>RAT1.Command</FullClassName>
+    <ClientId>f57fa2bd-ee2f-4ed3-99d0-e67808aa2a30</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RAT1</Name>
+    <Assembly>RAT1.dll</Assembly>
+    <FullClassName>RAT1.App</FullClassName>
+    <ClientId>6b5f122a-be38-4648-8dba-3d497a7771b0</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

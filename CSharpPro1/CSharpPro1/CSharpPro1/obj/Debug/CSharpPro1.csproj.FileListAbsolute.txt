@@ -1,0 +1,8 @@
+C:\Users\sreddy\Desktop\CSharpPro\CSharpPro1\CSharpPro1\CSharpPro1\bin\Debug\CSharpPro1.exe.config
+C:\Users\sreddy\Desktop\CSharpPro\CSharpPro1\CSharpPro1\CSharpPro1\bin\Debug\CSharpPro1.exe
+C:\Users\sreddy\Desktop\CSharpPro\CSharpPro1\CSharpPro1\CSharpPro1\bin\Debug\CSharpPro1.pdb
+C:\Users\sreddy\Desktop\CSharpPro\CSharpPro1\CSharpPro1\CSharpPro1\obj\Debug\CSharpPro1.csproj.AssemblyReference.cache
+C:\Users\sreddy\Desktop\CSharpPro\CSharpPro1\CSharpPro1\CSharpPro1\obj\Debug\CSharpPro1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sreddy\Desktop\CSharpPro\CSharpPro1\CSharpPro1\CSharpPro1\obj\Debug\CSharpPro1.csproj.CoreCompileInputs.cache
+C:\Users\sreddy\Desktop\CSharpPro\CSharpPro1\CSharpPro1\CSharpPro1\obj\Debug\CSharpPro1.exe
+C:\Users\sreddy\Desktop\CSharpPro\CSharpPro1\CSharpPro1\CSharpPro1\obj\Debug\CSharpPro1.pdb
