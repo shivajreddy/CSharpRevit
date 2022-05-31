@@ -1,0 +1,16 @@
+C:\Users\shiva\source\repos\FollowAlong\WPFTest1\WPFTest1\bin\Debug\WPFTest1.exe.config
+C:\Users\shiva\source\repos\FollowAlong\WPFTest1\WPFTest1\bin\Debug\WPFTest1.exe
+C:\Users\shiva\source\repos\FollowAlong\WPFTest1\WPFTest1\bin\Debug\WPFTest1.pdb
+C:\Users\shiva\source\repos\FollowAlong\WPFTest1\WPFTest1\obj\Debug\WPFTest1.csproj.AssemblyReference.cache
+C:\Users\shiva\source\repos\FollowAlong\WPFTest1\WPFTest1\obj\Debug\WPFTest1.csproj.SuggestedBindingRedirects.cache
+C:\Users\shiva\source\repos\FollowAlong\WPFTest1\WPFTest1\obj\Debug\MainWindow.g.cs
+C:\Users\shiva\source\repos\FollowAlong\WPFTest1\WPFTest1\obj\Debug\App.g.cs
+C:\Users\shiva\source\repos\FollowAlong\WPFTest1\WPFTest1\obj\Debug\WPFTest1_MarkupCompile.cache
+C:\Users\shiva\source\repos\FollowAlong\WPFTest1\WPFTest1\obj\Debug\WPFTest1_MarkupCompile.lref
+C:\Users\shiva\source\repos\FollowAlong\WPFTest1\WPFTest1\obj\Debug\MainWindow.baml
+C:\Users\shiva\source\repos\FollowAlong\WPFTest1\WPFTest1\obj\Debug\WPFTest1.g.resources
+C:\Users\shiva\source\repos\FollowAlong\WPFTest1\WPFTest1\obj\Debug\WPFTest1.Properties.Resources.resources
+C:\Users\shiva\source\repos\FollowAlong\WPFTest1\WPFTest1\obj\Debug\WPFTest1.csproj.GenerateResource.cache
+C:\Users\shiva\source\repos\FollowAlong\WPFTest1\WPFTest1\obj\Debug\WPFTest1.csproj.CoreCompileInputs.cache
+C:\Users\shiva\source\repos\FollowAlong\WPFTest1\WPFTest1\obj\Debug\WPFTest1.exe
+C:\Users\shiva\source\repos\FollowAlong\WPFTest1\WPFTest1\obj\Debug\WPFTest1.pdb

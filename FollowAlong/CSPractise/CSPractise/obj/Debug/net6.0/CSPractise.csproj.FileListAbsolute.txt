@@ -1,0 +1,15 @@
+C:\Users\shiva\source\repos\FollowAlong\CSPractise\CSPractise\bin\Debug\net6.0\CSPractise.exe
+C:\Users\shiva\source\repos\FollowAlong\CSPractise\CSPractise\bin\Debug\net6.0\CSPractise.deps.json
+C:\Users\shiva\source\repos\FollowAlong\CSPractise\CSPractise\bin\Debug\net6.0\CSPractise.runtimeconfig.json
+C:\Users\shiva\source\repos\FollowAlong\CSPractise\CSPractise\bin\Debug\net6.0\CSPractise.dll
+C:\Users\shiva\source\repos\FollowAlong\CSPractise\CSPractise\bin\Debug\net6.0\CSPractise.pdb
+C:\Users\shiva\source\repos\FollowAlong\CSPractise\CSPractise\obj\Debug\net6.0\CSPractise.csproj.AssemblyReference.cache
+C:\Users\shiva\source\repos\FollowAlong\CSPractise\CSPractise\obj\Debug\net6.0\CSPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\source\repos\FollowAlong\CSPractise\CSPractise\obj\Debug\net6.0\CSPractise.AssemblyInfoInputs.cache
+C:\Users\shiva\source\repos\FollowAlong\CSPractise\CSPractise\obj\Debug\net6.0\CSPractise.AssemblyInfo.cs
+C:\Users\shiva\source\repos\FollowAlong\CSPractise\CSPractise\obj\Debug\net6.0\CSPractise.csproj.CoreCompileInputs.cache
+C:\Users\shiva\source\repos\FollowAlong\CSPractise\CSPractise\obj\Debug\net6.0\CSPractise.dll
+C:\Users\shiva\source\repos\FollowAlong\CSPractise\CSPractise\obj\Debug\net6.0\refint\CSPractise.dll
+C:\Users\shiva\source\repos\FollowAlong\CSPractise\CSPractise\obj\Debug\net6.0\CSPractise.pdb
+C:\Users\shiva\source\repos\FollowAlong\CSPractise\CSPractise\obj\Debug\net6.0\CSPractise.genruntimeconfig.cache
+C:\Users\shiva\source\repos\FollowAlong\CSPractise\CSPractise\obj\Debug\net6.0\ref\CSPractise.dll

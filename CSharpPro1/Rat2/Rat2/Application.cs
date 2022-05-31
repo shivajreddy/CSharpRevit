@@ -14,7 +14,6 @@ namespace Rat2
 {
     public class Application : IExternalApplication
     {
-
         // On Shutdown method
         public Result OnShutdown(UIControlledApplication application) => Result.Succeeded;
 
