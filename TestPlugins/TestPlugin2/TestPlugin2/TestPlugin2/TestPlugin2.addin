@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command TestPlugin2</Text>
+    <Description>Some description for TestPlugin2</Description>
+    <Assembly>TestPlugin2.dll</Assembly>
+    <FullClassName>TestPlugin2.Command</FullClassName>
+    <ClientId>80436861-b80c-4924-a0ec-b5bef98d9a52</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application TestPlugin2</Name>
+    <Assembly>TestPlugin2.dll</Assembly>
+    <FullClassName>TestPlugin2.App</FullClassName>
+    <ClientId>88f98352-ac9f-4061-893d-01895a303e15</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

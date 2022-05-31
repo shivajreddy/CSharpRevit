@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name> Test_Plugin_3</Name>
+		<Assembly>TestPlugin3.dll</Assembly>
+		<AddInId>3761FE39-4E3F-4676-9C69-EA283C1FC39A</AddInId>
+		<Description>Test desc for plugin3</Description>
+		<FullClassName>TestPlugin3.App</FullClassName>
+		<VendorId>io.shivareddy</VendorId>
+		<VendorDescription>Shiva Reddy, http://shivareddy.io</VendorDescription>
+	</AddIn>
+</RevitAddIns>
