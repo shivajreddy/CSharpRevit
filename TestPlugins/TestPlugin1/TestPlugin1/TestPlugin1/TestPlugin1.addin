@@ -5,7 +5,7 @@
 	<Assembly>TestPlugin1.dll</Assembly>
 	<AddInId>5ED7E592-1B96-4237-A20E-9184ADDD26D1</AddInId>
 	<Description>Some description for TestPlugin1</Description>
-	<FullClassName>TestPlugin1.</FullClassName>
+	<FullClassName>TestPlugin1.App</FullClassName>
 	<VendorId>io.shivareddy</VendorId>
 	<VendorDescription>Shiva Reddy, http://shivareddy.io</VendorDescription>
   </AddIn>

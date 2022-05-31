@@ -45,19 +45,11 @@ namespace TestPlugin1
             if (pushButton is PushButton button)
             {
                 button.ToolTip = buttonToolTip;
-                Uri uri = new Uri(Path.Combine((Path.GetDirectoryName(thisAssemblyPath)), "Resource", "button1.png"));
+                Uri uri = new Uri(Path.Combine((Path.GetDirectoryName(thisAssemblyPath)), "Resources", "button1.ico"));
                 BitmapImage bitmapImage = new BitmapImage(uri);
                 button.LargeImage = bitmapImage;
             }
 
-            // declaring the panel.AddItem() as PushButton
-            //if (panel.AddItem(new PushButtonData(buttonName, buttonText, thisAssemblyPath, "TestPlugin1.Command")) is PushButton button)
-            //{
-            //    button.ToolTip = buttonToolTip;
-            //    Uri uri = new Uri(Path.Combine((Path.GetDirectoryName(thisAssemblyPath)), "Resource", "button1.png"));
-            //    BitmapImage bitmapImage = new BitmapImage(uri);
-            //    button.LargeImage = bitmapImage;
-            //}
             return Result.Succeeded;
         }
 
