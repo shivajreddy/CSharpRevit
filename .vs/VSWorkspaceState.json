@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TestPlugins",
-    "\\TestPlugins\\TestPlugin1"
+    "\\TestPlugins"
   ],
-  "SelectedNode": "\\TestPlugins\\TestPlugin1",
+  "SelectedNode": "\\TestPlugins\\TestPlugin4",
   "PreviewInSolutionExplorer": false
 }
